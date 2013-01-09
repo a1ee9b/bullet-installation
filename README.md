@@ -10,11 +10,8 @@ Requirements
 
 Installation
 ------------
-Just three steps to copy to the terminal
-* git clone https://github.com/a1ee9b/bullet-installation.git
-* cd bullet-installation
-* (chmod +x install; some systems)
-* ./install
+Just copy the following line to the terminal
+    git clone https://github.com/a1ee9b/bullet-installation.git; cd bullet-installation; chmod +x install; ./install
 
 Bullet
 ------------
