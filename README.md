@@ -12,7 +12,7 @@ Installation
 ------------
 Just copy the following line to the terminal:
 
-    git clone https://github.com/a1ee9b/bullet-installation.git; cd bullet-installation; chmod +x install; ./install
+    git clone https://github.com/a1ee9b/bullet-installation.git/; cd bullet-installation; chmod +x install; ./install
 
 Bullet
 ------------
