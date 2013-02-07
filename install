@@ -1,3 +1,12 @@
 #!/usr/bin/env bash
+
+# get the repo
+git clone https://github.com/a1ee9b/bullet-installation.git
+cd bullet-installation
+
+# get composer and install it
 curl -s http://getcomposer.org/installer | php
 php composer.phar install
+
+# remove git-stuff
+rm -Rf .git
