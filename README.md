@@ -12,13 +12,9 @@ Installation
 ------------
 Just copy the following line to the terminal:
 
-    git clone https://github.com/a1ee9b/bullet-installation.git ; cd bullet-installation; chmod +x install; ./install
+    curl https://raw.github.com/a1ee9b/bullet-installation/master/install | bash
 
-To get rid of the git stuff just run
-
-    rm -Rf .git
-
-Now you can initialize your own repo.
+Don't trust me? Just take a look at the install file.
 
 Bullet
 ------------
